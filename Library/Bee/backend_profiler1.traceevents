@@ -1,0 +1,531 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1669658286929298, "dur":1148, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658286930454, "dur":55, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1669658286930527, "dur":22, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1669658286930549, "dur":942, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1669658286931512, "dur":414, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658286931926, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287824446, "dur":240, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287824686, "dur":200, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287824886, "dur":167, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825053, "dur":33, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825086, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825089, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825105, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825108, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825116, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825118, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825127, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825129, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825136, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825138, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825147, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825149, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825157, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825159, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825167, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825169, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825177, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825178, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825185, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825187, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825195, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825197, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825205, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825207, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825217, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825219, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825227, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825229, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825236, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825257, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287825509, "dur":1680, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1669658286931171, "dur":767, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669658286931940, "dur":4112, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669658286936075, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669658286936088, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669658286937712, "dur":767, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669658286938488, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669658286938535, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669658286938735, "dur":9799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1669658286948544, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1669658286948760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669658286948770, "dur":352206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1669658287301029, "dur":47630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669658287348667, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669658287348679, "dur":18432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669658287367150, "dur":84101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669658287451261, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669658287451279, "dur":32456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669658287483764, "dur":169079, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669658287652851, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1669658287652863, "dur":1974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1669658287654861, "dur":169598, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658286931722, "dur":299, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658286932021, "dur":4044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658286936078, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1669658286936376, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658286944501, "dur":68058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1669658287012623, "dur":28078, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287040713, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287041330, "dur":9321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287050709, "dur":29096, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287079832, "dur":945, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287080811, "dur":6583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287087450, "dur":43595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287131056, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287131068, "dur":18461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287149571, "dur":45334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287194911, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287194922, "dur":17202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287212199, "dur":24536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287236744, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287236759, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287238324, "dur":23364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287261698, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287261712, "dur":2990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287264758, "dur":37714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287302477, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287302485, "dur":13724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287316246, "dur":35106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287351365, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287351382, "dur":44179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287395628, "dur":68749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287464385, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287464444, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287465759, "dur":145599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287611368, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1669658287611384, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1669658287614038, "dur":210386, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658286931349, "dur":607, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658286931956, "dur":4102, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658286936075, "dur":12567, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1669658286948645, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658286948650, "dur":3069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1669658286951792, "dur":59048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto.exe" }}
+,{ "pid":12345, "tid":3, "ts":1669658287010844, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658287010850, "dur":4308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto.exe" }}
+,{ "pid":12345, "tid":3, "ts":1669658287015197, "dur":51711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287066920, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658287066937, "dur":5115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287072118, "dur":25680, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287097842, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658287097856, "dur":2287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287100181, "dur":50275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287150470, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658287150486, "dur":9609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287160144, "dur":92408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287252559, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658287252569, "dur":2621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287255232, "dur":26013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287281254, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658287281269, "dur":2559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287283874, "dur":76935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287360817, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658287360831, "dur":26545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287387409, "dur":227119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287614539, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1669658287614553, "dur":2266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1669658287616855, "dur":207606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658286931406, "dur":555, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658286931961, "dur":4094, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658286936076, "dur":34788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1669658286970869, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658286971127, "dur":41952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1669658287013135, "dur":39908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287053059, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287053080, "dur":2289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287055419, "dur":68239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287123666, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287123675, "dur":2202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287125930, "dur":32565, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287158511, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287158526, "dur":2395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287160957, "dur":52615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287213576, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287213582, "dur":6401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287220025, "dur":25520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287245556, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287245569, "dur":1519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287247142, "dur":29351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287276501, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287276513, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287277867, "dur":117095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287394970, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287394980, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287397433, "dur":104417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287501858, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287501872, "dur":2058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287503965, "dur":316056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287820028, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1669658287820037, "dur":4318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1669658287824388, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1669658287824391, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658286931940, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658286931940, "dur":4144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658286936088, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1669658286936377, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658286943977, "dur":68258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1669658287012308, "dur":87350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287099665, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287099678, "dur":2021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287101738, "dur":25638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287127386, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287127437, "dur":6036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287133517, "dur":24991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287158512, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287158526, "dur":5377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287163945, "dur":26582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287190544, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287190562, "dur":1724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287192325, "dur":29181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287221519, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287221537, "dur":1526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287223103, "dur":27498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287250609, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287250623, "dur":1470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287252126, "dur":51824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287303959, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287303970, "dur":5253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287309260, "dur":1836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287311135, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287311144, "dur":2782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287313963, "dur":55883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287369859, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287369892, "dur":4838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287374767, "dur":200722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287575501, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1669658287575517, "dur":12703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1669658287588314, "dur":236120, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669658286931527, "dur":461, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669658286931989, "dur":4088, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669658286936077, "dur":436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1669658286936516, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669658287011247, "dur":462587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1669658287473928, "dur":133861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669658287607802, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1669658287607820, "dur":2186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":6, "ts":1669658287610050, "dur":214419, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669658286931584, "dur":419, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669658286932003, "dur":4060, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669658286936077, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1669658286936374, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669658286943162, "dur":344040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1669658287287244, "dur":238086, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669658287525338, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669658287525350, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669658287527440, "dur":186638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669658287714084, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1669658287714093, "dur":1341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1669658287715472, "dur":108968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658286931664, "dur":344, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658286932008, "dur":4053, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658286936077, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1669658286936373, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658286942994, "dur":71801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1669658287014884, "dur":55913, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287070803, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658287070867, "dur":7261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287078213, "dur":184171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287262388, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658287262395, "dur":7232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287269664, "dur":135151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287404824, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658287404833, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287406407, "dur":42513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287448926, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658287448936, "dur":1083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287450047, "dur":191018, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287641113, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1669658287641124, "dur":2288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1669658287643445, "dur":181004, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658286931275, "dur":675, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658286931950, "dur":4107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658286936075, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1669658286936396, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658286945540, "dur":69302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1669658287015134, "dur":55949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287071090, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287071105, "dur":10976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287082133, "dur":24979, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287107123, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287107137, "dur":5754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287112924, "dur":74801, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287187737, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287187749, "dur":1747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287189532, "dur":31080, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287220626, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287220641, "dur":2427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287223105, "dur":39010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287262122, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287262130, "dur":4752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287266933, "dur":48691, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287315634, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287315652, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287317720, "dur":1225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287318953, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287318965, "dur":1858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287320877, "dur":34396, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287355284, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287355299, "dur":21929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287377267, "dur":116496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287493775, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287493791, "dur":1925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287495747, "dur":93129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287588887, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1669658287588910, "dur":2823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1669658287591785, "dur":232638, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658286931791, "dur":236, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658286932027, "dur":4064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658286936092, "dur":12784, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1669658286948879, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658286948885, "dur":2419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1669658286951367, "dur":11453, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1669658286962828, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658286962865, "dur":57867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1669658287020788, "dur":111305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287132108, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658287132122, "dur":3058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287135220, "dur":23497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287158721, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658287158726, "dur":6295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287165069, "dur":62571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287227648, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658287227661, "dur":3430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287231155, "dur":30601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287261763, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658287261773, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287263731, "dur":161864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287425605, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658287425617, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287427200, "dur":259479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287686688, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1669658287686695, "dur":2877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1669658287689599, "dur":134833, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658286931840, "dur":190, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658286932030, "dur":4045, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658286936085, "dur":12580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1669658286948668, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658286948675, "dur":2383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1669658286951154, "dur":85222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287036384, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658287036395, "dur":52184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287088632, "dur":124906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287213553, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658287213574, "dur":4618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287218245, "dur":26251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287244512, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658287244529, "dur":8237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287252815, "dur":33107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287285930, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658287285944, "dur":10572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287296551, "dur":37316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287333883, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658287333898, "dur":32753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287366685, "dur":290132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287656823, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1669658287656832, "dur":3583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1669658287660447, "dur":163999, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658286931890, "dur":203, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658286932093, "dur":3996, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658286936089, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1669658286936366, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658286938477, "dur":10623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1669658286949150, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1669658286949346, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658286949358, "dur":66220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":12, "ts":1669658287015656, "dur":27333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287043005, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658287043109, "dur":1201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287044357, "dur":27306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287071673, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658287071685, "dur":6197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287078094, "dur":73537, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287151684, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658287151705, "dur":2298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287154053, "dur":38900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287192965, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658287192984, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287194487, "dur":39434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287233929, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658287233940, "dur":2822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287236798, "dur":198152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287434959, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658287434970, "dur":2682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287437689, "dur":233363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287671058, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1669658287671069, "dur":2844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1669658287673938, "dur":150484, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658286931463, "dur":503, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658286931967, "dur":4102, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658286936078, "dur":434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1669658286936515, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287010573, "dur":5239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1669658287015954, "dur":41208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287057176, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287057195, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287058881, "dur":84074, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287142966, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287142981, "dur":9295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287152322, "dur":41782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287194118, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287194140, "dur":2531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287196714, "dur":105528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287302248, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287302258, "dur":12449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287314755, "dur":1367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287316130, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287316141, "dur":1266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287317442, "dur":31071, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287348569, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287348581, "dur":18555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287367178, "dur":151524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287518710, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287518726, "dur":16940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1669658287535731, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":13, "ts":1669658287536084, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287536571, "dur":1282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":13, "ts":1669658287537895, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":13, "ts":1669658287537976, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287538054, "dur":1884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":13, "ts":1669658287539973, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1669658287540009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1669658287540016, "dur":59572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1669658287599630, "dur":224798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658286931994, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658286931994, "dur":4068, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658286936077, "dur":12704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1669658286948784, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658286948794, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1669658286951127, "dur":59205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287010352, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287011607, "dur":5364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287017021, "dur":26903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287043938, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287043953, "dur":2416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287046412, "dur":23994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287070420, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287070438, "dur":2432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287072932, "dur":33140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287106083, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287106096, "dur":1441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287107571, "dur":58609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287166189, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287166202, "dur":1557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287167790, "dur":43590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287211442, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287211458, "dur":3261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287214762, "dur":22723, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287237497, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287237514, "dur":2481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287240036, "dur":22280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287262320, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287262326, "dur":4333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287266703, "dur":30685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287297398, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287297410, "dur":4848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287302299, "dur":41289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287343597, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287343609, "dur":2609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287346247, "dur":95734, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287441988, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287441998, "dur":1510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287443541, "dur":84152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287528934, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287528961, "dur":1546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287530536, "dur":62193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287592742, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1669658287592758, "dur":2954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1669658287595766, "dur":228676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658286932088, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658286932089, "dur":3978, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658286936076, "dur":12464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1669658286948550, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658286948644, "dur":2359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1669658286951130, "dur":59258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287010394, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287011621, "dur":17818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287029488, "dur":41668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287071160, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287071168, "dur":8073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287079285, "dur":150716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287230015, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287230029, "dur":3952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287234018, "dur":21677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287255701, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287255714, "dur":1477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287257228, "dur":43480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287300715, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287300727, "dur":6275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287307052, "dur":36880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287343936, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287343944, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287346234, "dur":25079, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287371324, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287371339, "dur":4399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287375781, "dur":165529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287541320, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287541334, "dur":3614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":15, "ts":1669658287544994, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":15, "ts":1669658287545044, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287545057, "dur":4933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":15, "ts":1669658287550029, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1669658287550214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287550227, "dur":1356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":15, "ts":1669658287551623, "dur":17841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":15, "ts":1669658287569473, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287569486, "dur":1257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":15, "ts":1669658287570775, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/level0.resS" }}
+,{ "pid":12345, "tid":15, "ts":1669658287570812, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287570823, "dur":3370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/level0.resS" }}
+,{ "pid":12345, "tid":15, "ts":1669658287574233, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1669658287574286, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287574298, "dur":2431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1669658287576771, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1669658287576812, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287576824, "dur":2324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1669658287579206, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1669658287579253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287579266, "dur":2193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1669658287581531, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/boot.config" }}
+,{ "pid":12345, "tid":15, "ts":1669658287581810, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1669658287581824, "dur":2657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/boot.config" }}
+,{ "pid":12345, "tid":15, "ts":1669658287584537, "dur":239893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658286932168, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658286932169, "dur":3918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658286936087, "dur":11795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1669658286947892, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658286947905, "dur":2794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1669658286950765, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1669658286950959, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658286950971, "dur":60194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1669658287011213, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1669658287011376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287012503, "dur":23212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1669658287035758, "dur":40134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287075903, "dur":16, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287075930, "dur":7284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287083415, "dur":42269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287125696, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287125713, "dur":2052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287127802, "dur":23120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287150932, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287150947, "dur":3048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287154035, "dur":21865, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287175917, "dur":9, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287175939, "dur":2099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287178077, "dur":35663, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287213875, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287213887, "dur":6442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287220379, "dur":63610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287283994, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287284004, "dur":1980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287286030, "dur":120866, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287406901, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287406909, "dur":1080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287408017, "dur":234059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/jogo do labirinto_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287642083, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1669658287642091, "dur":1637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/jogo do labirinto_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":16, "ts":1669658287643757, "dur":180680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1669658287829421, "dur":1571, "ph":"X", "name": "ProfilerWriteOutput" }
+,
